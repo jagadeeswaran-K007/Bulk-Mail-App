@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Environment Variables (CRITICAL: NEVER COMMIT THIS)
+.env
+.env.local
+.env.production
+
+# Build Output
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
